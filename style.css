@@ -1,0 +1,36 @@
+#container{
+    margibs:0 auto;
+    width:800px;		
+    background-color:#ff6;
+}
+#header{
+    background-color:#f9c;
+    width:800px;
+    height:100px;
+    float:left;
+    text-align:center;
+}
+#content-container{
+    float:left;
+    width:800px;
+    background-color:#fff;
+}
+#section-navigation{
+    float:left;
+    width:200px;
+    height:500px;
+    background-color:#6cf;
+}
+#content{
+    float:right;
+    width:600px;
+    height:500px;
+    background-color:#6f6;
+}
+#footer{
+    float:left;
+    background-color:#996;
+    text-align:center;
+    height:50px;
+    width:800px;
+}
